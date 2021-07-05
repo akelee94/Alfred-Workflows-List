@@ -2,3 +2,10 @@
 
 # idea
 .idea
+
+# php file
+*.php
+
+# png imgage
+
+*.png
