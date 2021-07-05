@@ -7,5 +7,7 @@
 *.php
 
 # png imgage
-
 *.png
+
+# info.plist
+info.plist
