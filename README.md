@@ -15,3 +15,7 @@
 
 * 作者： 我是阿沐(Jonny Lee)
 * Email： lw1772363381@163.com
+
+## License
+
+![MIT License][http://zenorocha.mit-license.org/] © Zeno Rocha
