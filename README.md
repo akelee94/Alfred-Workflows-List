@@ -13,7 +13,7 @@
   
 ## 作者信息
 
-* 作者： 我是阿沐(Jonny Lee)
+* Author： 我是阿沐(Jonny Lee)
 * Email： lw1772363381@163.com
 
 ## License
